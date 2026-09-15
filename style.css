@@ -13,3 +13,11 @@ h1 {
 #unique_identifier {
     font-style: normal;
 }
+p :hover {
+    background-color: bisque;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
